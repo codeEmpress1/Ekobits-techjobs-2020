@@ -1,0 +1,31 @@
+## Terminal basic exercise 2
+
+
+1. `man` is the short form of manual which is used to display the details of a specific command, like what it does, its flags and there functions.
+To scroll up and down in man, the arrow up and down key is used respectively. `q` is used to get out of the man command.
+
+2. -l flag in ls is for "long listing format that is, it lists with more details like the owner and users permission" while -a flag is for listing all folder and files (including hidden ones).
+
+3. curl https://www.google.com > google.html
+
+4. `less google.html `
+
+5. `less -p hplogo google.html `
+
+6. To jump between words in the terminal, long press the `ctrl` key (cmd on mac) and use the left and right arrow key to navigate left and right respectively.
+
+7. The end key is used to get to the end of the file
+
+8. ctrl + A is used to move to the cursor to the beginning in the terminal
+
+9. ctrl + W is used to delete a word in before the cursor while alt + D is used to delete a word after the cursor.
+
+10. Terminal is the program that runs a shell while a shell is the program that processes commands and return output.
+
+11. Absolute path is a path that start from the root directory
+
+12. Relative path is a path that starts with the current location, that is with reference to the present working directory
+
+13. Flag is a way of adding more functionalities to commands. Example -a in ls, -l in ls, -r in cp
+
+14. r flag in rm removes folder recursively while f is to remove forcefully
