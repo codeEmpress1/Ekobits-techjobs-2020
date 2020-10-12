@@ -1,0 +1,1 @@
+4. Passing by value simply means two variables storing similar values can be modified independently while in Passing by reference two variables store the address to the same value. 
